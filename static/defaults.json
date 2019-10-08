@@ -1,0 +1,14 @@
+{
+  "dimensions": {
+    "width": "1000px",
+    "height": "200px",
+    "axis": {
+      "x": "1",
+      "y": "2",
+      "etc": {
+        "z": "8"
+      }
+    }
+  },
+  "fullscreen": false
+}
